@@ -1,0 +1,12 @@
+/* PRINT
+*/
+
+@page {
+    margin: 5px;
+}
+
+nav,
+.print,
+.hobbies img {
+    display: none;
+}
